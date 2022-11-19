@@ -1,6 +1,6 @@
 ### Joia?
 
-Meu nome é Bernardo Rodrigues da Silva, atualmente com 17 anos, sou um estudante do ensino médio, integrado com o ensino médio eu curso eletrônica, e a programação é uma das matérias que eu mais me interessei no curso. Por conta disso, procuro cada vez mais aprender mais sobre e me especializar sobre o assunto, no momento tentando aprender e brincar um pouco, quem sabe mais pra frente trabalhar no ramo.
+Meu nome é Bernardo Rodrigues da Silva, atualmente com 17 anos, sou um estudante do ensino médio, integrado com o ensino médio eu curso eletrônica, e a programação é uma das matérias que eu mais me interessei no curso. Por conta disso, procuro cada vez mais aprender sobre e me especializar no assunto, no momento tentando aprender e brincar um pouco, e quem sabe mais pra frente trabalhar no ramo.
 
 <div align="center">
   <a href="https://github.com/CalangoMolhado">
